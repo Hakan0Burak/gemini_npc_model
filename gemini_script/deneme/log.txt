@@ -1,0 +1,1 @@
+Giriş: merhaba, Çıkış: Hata: invalid syntax
