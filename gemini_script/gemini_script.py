@@ -3,7 +3,7 @@ import google.generativeai as genai
 import time
 
 # Google Gemini API anahtarıyla konfigürasyon
-genai.configure(api_key="AIzaSyDYm5jAn7xVH-B4uysxFrqgUg0PRBU2Uxo")
+genai.configure(api_key="....")
 
 # Log dosyasını okuma
 log_file_path = 'C:/Users/New/Desktop/log.txt'  # C# bu dosyaya veri yazıyor.
